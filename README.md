@@ -11,3 +11,4 @@
 ### python manage.py runserver (abrir la pagina)
 ### git branch ramainicio (crear rama)
 ### git checkout ramainicio (cambiar rama)
+### git pull origin main (combinar ramas)
