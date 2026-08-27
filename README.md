@@ -9,3 +9,5 @@
 ### pip install django (con venv activado)
 ### django-admin startproject/app "elnombre" . (comenzar projecto y app)
 ### python manage.py runserver (abrir la pagina)
+### git branch ramainicio (crear rama)
+### git checkout ramainicio (cambiar rama)
